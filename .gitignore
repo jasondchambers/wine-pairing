@@ -1,0 +1,6 @@
+# Personal wine cellar data - do not commit
+cellar.csv
+cellar.db
+
+# macOS
+.DS_Store
