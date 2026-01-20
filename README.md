@@ -2,6 +2,9 @@
 
 A Claude Code skill that recommends wine pairings from your personal wine cellar. Tell Claude what dish you're cooking, and it will suggest wines from your collection based on classic pairing principles and drinking windows.
 
+It uses [winebuddy](https://github.com/jasondchambers/winebuddy) under the
+covers.
+
 ## Features
 
 - **Smart Pairing**: Uses wine pairing principles to match wines to your dish
