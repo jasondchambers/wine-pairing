@@ -1,14 +1,6 @@
 ---
 name: wine-pairing
 description: Recommend wine pairings from personal cellar for dishes and meals. Use when asking what wine to pair with food, dinner, a dish, or meal. Queries wine cellar database and suggests wines based on pairing principles and drinking windows.
-allowed-tools:
-  - Bash(uvx:*)
-  - Bash(git clone:*)
-  - Bash(cd:*)
-  - Bash(ls:*)
-  - Bash(test:*)
-  - Read
-user-invocable: true
 ---
 
 # Wine Pairing Skill
